@@ -20,5 +20,5 @@ Feel free to check out some of my projects:
 
 I'm constantly tweaking with these as I like to go back over old code to improve on it.
 
-- 🔭 I’m currently working on my portfolio website, using React whilst implementing framer motion [here](https://github.com/Ocoldwell/React-portfolio).
-- 🌱 I’m currently learning C# and ASP.net as I appreciate strongly typed languages.
+- 🔭  I’m currently working on my portfolio website, using React whilst implementing framer motion [here](https://github.com/Ocoldwell/React-portfolio).
+- 🌱  I’m currently learning C# and ASP.net as I appreciate strongly typed languages.
