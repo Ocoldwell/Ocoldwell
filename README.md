@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Ollie, I finished a bootcamp called Nology in March, which gave me quite a few skills in:
+I'm Ollie, I'm a junior front-end developer with experience with these technologies:
 
 - Javascript/Typescript using ES6, I :heart: arrow functions.
 - Semantic HTML
