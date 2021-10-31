@@ -21,6 +21,5 @@ Feel free to check out some of my projects:
 
 I'm constantly tweaking with these as I love refactoring and improving test coverage.
 
-- 🔭  I’m currently working on my portfolio website, using React whilst implementing framer motion [here](https://github.com/Ocoldwell/React-portfolio).
 - 🌱  I currently write code in Angular professionally, so I try to spend lots of time getting to grips and mastering this. Outside of work, I've been learning Java/C# with some brushing up on Node and plans to learn Elixir.
 - 🐡  Outside of coding? I love reading fantasy books and going on hikes with my dog.
