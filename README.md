@@ -19,7 +19,7 @@ Feel free to check out some of my projects:
 - [A calculator](https://github.com/Ocoldwell/calculator-project)  🥧
 - [Etch-A-Sketch](https://github.com/Ocoldwell/etchasketch)  :pencil2:
 
-I'm constantly tweaking with these as I love refactoring and improving test coverage.
+I enjoy tweaking with these when I get time as I love refactoring and improving test coverage.
 
 - 🌱  I currently write code in Angular professionally, so I try to spend lots of time getting to grips and mastering this. Outside of work, I've been learning Java/C# with some brushing up on Node and plans to learn Elixir.
 - 🐡  Outside of coding? I love reading fantasy books and going on hikes with my dog.
