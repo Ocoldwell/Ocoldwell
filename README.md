@@ -1,15 +1,15 @@
 # Hi there 👋
 
-I'm Ollie, I'm a junior front-end developer with experience with these technologies:
+I'm Ollie, I'm a front-end developer who works mainly with these technologies:
 
-- Javascript/Typescript using ES6, I :heart: arrow functions.
+- Javascript/Typescript
 - Semantic HTML
-- CSS/SCSS
-- React
+- CSS/SCSS and design systems like Bootstrap and Tailwind.
+- React, in particular using Next.js and hooks.
 - Angular
 - Node.js
 
-I'm passionate about accessibility, and writing clean code.
+I'm passionate about accessibility and attempting to write clean code.
 Feel free to check out some of my projects:
 
 - [Rubys Text Adventure](https://github.com/Ocoldwell/rubyscakeadventuregame)  🐶
@@ -19,7 +19,4 @@ Feel free to check out some of my projects:
 - [A calculator](https://github.com/Ocoldwell/calculator-project)  🥧
 - [Etch-A-Sketch](https://github.com/Ocoldwell/etchasketch)  :pencil2:
 
-I enjoy tweaking with these when I get time as I love refactoring and improving test coverage.
-
-- 🌱  I currently write code in Angular professionally, so I try to spend lots of time getting to grips and mastering this. Outside of work, I've been learning Java/C# with some brushing up on Node and plans to learn Elixir.
-- 🐡  Outside of coding? I love reading fantasy books and going on hikes with my dog.
+- 🌱  I currently write code in Next.js professionally, with previous experience using Angular so I try to spend lots of time getting to grips and mastering this. I'm interested in other languages and am working my way up to proficiency in a few.
