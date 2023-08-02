@@ -9,7 +9,3 @@ I'm Ollie, I'm a software engineer who has experience with these technologies:
 - React
 - Next.js
 - Redux
-- Angular
-- Node.js
-- Django
-- Flask
